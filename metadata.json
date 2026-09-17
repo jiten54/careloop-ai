@@ -1,0 +1,6 @@
+{
+  "name": "CareLoop AI",
+  "description": "Advanced AI-powered healthcare platform for care coordination, medical document intelligence, and predictive follow-up analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
